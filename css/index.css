@@ -16,8 +16,6 @@ body{
     align-content: center;
     display: grid;
     grid-template-columns: repeat(3,auto);
-    box-shadow: 5px 5px 5px 5px lime;
-
 }
 
 .cell {
